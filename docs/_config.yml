@@ -5,9 +5,9 @@
 
 #######################################################################################
 # Book settings
-title: Global Fish Tracking System (GFTS) - DESP use case # The title of the book. Will be placed in the left navbar.
+title: Earthly marvels revealed: Pangeo, AI, and Copernicus in action # The title of the book. Will be placed in the left navbar.
 author: Pangeo # The author of the book
-copyright: "2023" # Copyright year to be placed in the footer
+copyright: "2024" # Copyright year to be placed in the footer
 logo: "./images/pangeo-logo.png" # A path to the book logo
 only_build_toc_files: true
 
@@ -26,7 +26,7 @@ launch_buttons:
 # Define the name of the latex output file for PDF builds
 latex:
   latex_documents:
-    targetname: gfts.tex
+    targetname: igarss2024.tex
 
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
