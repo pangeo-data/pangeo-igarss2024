@@ -55,4 +55,30 @@ This tutorial will provide a comprehensive introduction along with hands-on exam
 
 # Overview
  
-TODO
+In this tutorial, participants will learn how to 1) navigate the Pangeo ecosystem for scalable Earth Science workflows and 2) exploit Earth Observation (EO) data, and in particular from Copernicus, with Artificial Intelligence (AI) using open and reproducible tools and methodologies from Horizon Europe EO4EU project, the Pangeo community, and other open source projects that leverage the Pangeo ecosystem. Participants will gain practical experience in leveraging AI techniques on Copernicus datasets through hands-on sessions. By the end of this tutorial, participants will possess the skills and knowledge needed to harness the power of AI for transformative EO applications using the Pangeo ML e.g. xbatcher and zen3geo and other advanced packages handling EO data based on the Pangeo stack for ML/AI, e.g. DeepSensor. Participants will also be introduced to some computer vision foundation models hosted on the EO4EU platform, learn how to prepare earth observation data, prompt these models to perform segmentation and object detection tasks and visualise the obtained results using visualisation and GIS tools.
+
+By the end of this tutorial, participants will possess the skills and knowledge needed to harness the power of AI for transformative EO applications using the Pangeo ML ecosystem and EO4EU platform. All the training material will be collaboratively developed and made available online with CC-BY-4 licence. To facilitate user on-boarding the Pangeo@EOSC platform will be made available to participants. However, all the information needed to set up and run the training material on different platforms will be provided too. This tutorial will provide a comprehensive introduction along with hands-on examples to help you understand how these technologies can be used for Earth science data analysis and interpretation.
+
+## Tutorial Learning Objectives
+
+By the end of this tutorial, learners will be able to:
+
+- Understand the Pangeo ecosystem
+- Learn to access, load, and analyse data using Xarray, visualising data with Hvplot, and scaling ML workflows with Dask.
+- Learn to exploit and combine Pangeo tools, methodologies and services to create complex and efficient EO workflows.
+- Learn about the EO4EU platform.
+- Computer vision foundation model hands-on.
+- Learn to use the EO4EU Knowledge Graph tools to discover and use EO data.
+
+## Prerequisites
+
+Before starting this tutorial, learners should have:
+
+- Basic knowledge of Python or another programming language;
+- Basic knowledge of geospatial data structures;
+- Basic knowledge of Earth Observation concepts like Copernicus offer and structure;
+- Prior exposure to AI concepts and tools is recommended.
+
+## Set up
+
+If you are participating in this training as part of the IGARSS 2024 Conference, you will be provided access to [Pangeo@EOSC](https://pangeo-data.github.io/pangeo-eosc/) through a training user identifier and corresponding credentials during the course. If you wish to continue using the Pangeo@EOSC infrastructure after the course ends, please register yourself following the instructions given at [getting started for users](https://pangeo-data.github.io/pangeo-eosc/users/users-getting-started.html).
