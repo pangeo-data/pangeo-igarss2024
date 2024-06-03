@@ -4,3 +4,4 @@ parts:
   - caption: About
     chapters:
       - file: agenda
+      - file: users-getting-started
