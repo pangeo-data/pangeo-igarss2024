@@ -5,3 +5,6 @@ parts:
     chapters:
       - file: agenda
       - file: users-getting-started
+  - caption: Gap filling
+    chapters:
+      - file: SST_AI
