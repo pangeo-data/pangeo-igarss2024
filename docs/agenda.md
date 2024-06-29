@@ -1,29 +1,30 @@
-# Timeline of the workshops
+# Timeline of the Workshops
 
-The programmes for each workshop are given below for your information. Each workshop is held separately.
+Below is the agenda for each workshop session.
 
-## Navigate the Pangeo ecosystem for scalable Earth Science AI workflows
+## Part 1: Navigate the Pangeo Ecosystem for Scalable Earth Science AI Workflows
 
-| Time | Activity |
-| ---- | -------- |
-| 09:00  | 👋 Welcome  (5 minutes) |
-| 9:05   | Introduction and Motivation (15 minutes) |
-| 9:20   | Accessing Pangeo-EOSC infrastructure (10 minutes) |
-| 9:30   | Understanding Xarray to avoid common pitfalls (10 minutes) |
-| 9:40   | Interactive Visualization with Hvplot (10 minutes) | 
-| 9:50   | Laverage Pangeo for AI workflows      (30 minutes) | 
+Please continue [this website](https://pangeo-data.github.io/pangeo-igarss2024/agenda.html) for this part of the tutorial.
 
+| Time   | Activity                                      |
+| ------ | --------------------------------------------- |
+| 12:30  | 👋 Welcome (5 minutes)                         |
+| 12:35  | Introduction and Motivation (15 minutes)       |
+| 12:50  | Accessing Pangeo-EOSC Infrastructure (10 minutes) |
+| 13:00  | Understanding Xarray to Avoid Common Pitfalls (10 minutes) |
+| 13:10  | Interactive Visualization with Hvplot (10 minutes) |
+| 13:20  | Leverage Pangeo for AI Workflows (25 minutes)  |
+| 13:45  | ☕️ Break (30 minutes)                          |
 
-| 10:20  | Break (20 minutes)  | | 
+## Part 2: EO4EU Tutorial IGARSS 2024
 
-## EO4EU
+Please refer to [this website](https://albughdadim.github.io/igarss2024-eo4eu/eo4eu_intro.html) for this part of the tutorial.
 
-
-| Time | Activity |
-| ---- | -------- |
-| 10:40 | 👋 Introduction and motivation (5 minutes) |
-| 10:45 | Getting started with EO4EU (10 minutes) |
-| 10:55 | Examples of Processing APIs in  EO4EU (15 minutes) |
-| 11:10 | Practical Use Cases (40 minutes) |
-| 11:50 | Q&A session - feedbacks (10 minutes) |
-| 12:00 | 🍽️  Lunch |
+| Time   | Activity                                      |
+| ------ | --------------------------------------------- |
+| 14:15  | 👋 Introduction and Motivation (5 minutes)     |
+| 14:20  | Getting Started with EO4EU (5 minutes)        |
+| 14:25  | Examples of Processing APIs in EO4EU (15 minutes) |
+| 14:40  | Practical Use Cases (40 minutes)              |
+| 15:20  | Q&A Session and Feedback (10 minutes)         |
+| 15:30  | ☕️ Break                                       |

@@ -42,7 +42,7 @@ tags:
 thumbnail: images/pangeo-logo.png
 ---
 
-#  Earthly marvels revealed: Pangeo, AI, and Copernicus in action 
+#  HD-8: Earthly marvels revealed: Pangeo, AI, and Copernicus in action 
 
 +++ {"part":"abstract"}
 
@@ -51,7 +51,6 @@ thumbnail: images/pangeo-logo.png
 
 This tutorial is created in collaboration with European Pangeo community and [Horizon Europe EO4EU projec](https://www.eo4eu.eu) community for a tutorial session of [2024 IEEE International Geoscience and Remote Sensing Symposium](https://www.2024.ieeeigarss.org/tutorials.php#tut8).  
 
-
 This tutorial will provide a comprehensive introduction along with hands-on examples to help you understand how these technologies can be used for Earth science data analysis and interpretation.
 
 +++
@@ -59,8 +58,9 @@ This tutorial will provide a comprehensive introduction along with hands-on exam
 
 # Time, Location and registration. 
 The tutorial will be at **Sun, 7 Jul, 12:30 - 15:30 Greece Time (UTC +3)**
-The room assigned to the tutorial is **MC 3.4**
-To particpate this tutorial, please register at [IGARSS 2024 Registration site](https://www.2024.ieeeigarss.org/registration.php). There will be no 
+The room assigned to the tutorial is **MC 3.4** located at **LEVEL -1**
+
+To particpate this tutorial, please register at [IGARSS 2024 Registration site](https://www.2024.ieeeigarss.org/registration.php). 
 
 
 # Overview 
