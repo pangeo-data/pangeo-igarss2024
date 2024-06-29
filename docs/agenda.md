@@ -8,12 +8,10 @@ Please continue [this website](https://pangeo-data.github.io/pangeo-igarss2024/a
 
 | Time   | Activity                                      |
 | ------ | --------------------------------------------- |
-| 12:30  | 👋 Welcome (5 minutes)                         |
-| 12:35  | Introduction and Motivation (15 minutes)       |
-| 12:50  | Accessing Pangeo-EOSC Infrastructure (10 minutes) |
-| 13:00  | Understanding Xarray to Avoid Common Pitfalls (10 minutes) |
-| 13:10  | Interactive Visualization with Hvplot (10 minutes) |
-| 13:20  | Leverage Pangeo for AI Workflows (25 minutes)  |
+| 12:30  | 👋 Welcome: Introduction to Pangeo (10 minutes)       |
+| 12:40  | Accessing Pangeo-EOSC Infrastructure (10 minutes) |
+| 12:50  | Introduction to Xarray and Interactive Visualization (10 minutes) |
+| 13:00  | Leverage Pangeo for AI Workflows (45 minutes)  |
 | 13:45  | ☕️ Break (30 minutes)                          |
 
 ## Part 2: EO4EU Tutorial IGARSS 2024
