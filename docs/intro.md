@@ -49,12 +49,21 @@ thumbnail: images/pangeo-logo.png
 % The article should include an abstract block at the beginning. The block is delimited by `+++` before and after, and you must specify `"part": "abstract"` as JSON metadata on the block opener. This metadata is required for recognizing the content of this cell as the abstract.
 % The abstract should begin with a short description of the problem addressed, briefly describe the new data or analyses, then briefly state the main conclusion(s) and how they are supported, and address any uncertainty.
 
+This tutorial is created in collaboration with European Pangeo community and [Horizon Europe EO4EU projec](https://www.eo4eu.eu) community for a tutorial session of [2024 IEEE International Geoscience and Remote Sensing Symposium](https://www.2024.ieeeigarss.org/tutorials.php#tut8).  
+
+
 This tutorial will provide a comprehensive introduction along with hands-on examples to help you understand how these technologies can be used for Earth science data analysis and interpretation.
 
 +++
 
-# Overview
- 
+
+# Time, Location and registration. 
+The tutorial will be at **Sun, 7 Jul, 12:30 - 15:30 Greece Time (UTC +3)**
+The room assigned to the tutorial is **MC 3.4**
+To particpate this tutorial, please register at [IGARSS 2024 Registration site](https://www.2024.ieeeigarss.org/registration.php). There will be no 
+
+
+# Overview 
 In this tutorial, participants will learn how to 1) navigate the Pangeo ecosystem for scalable Earth Science workflows and 2) exploit Earth Observation (EO) data, and in particular from Copernicus, with Artificial Intelligence (AI) using open and reproducible tools and methodologies from Horizon Europe EO4EU project, the Pangeo community, and other open source projects that leverage the Pangeo ecosystem. Participants will gain practical experience in leveraging AI techniques on Copernicus datasets through hands-on sessions. By the end of this tutorial, participants will possess the skills and knowledge needed to harness the power of AI for transformative EO applications using the Pangeo ML e.g. xbatcher and zen3geo and other advanced packages handling EO data based on the Pangeo stack for ML/AI, e.g. DeepSensor. Participants will also be introduced to some computer vision foundation models hosted on the EO4EU platform, learn how to prepare earth observation data, prompt these models to perform segmentation and object detection tasks and visualise the obtained results using visualisation and GIS tools.
 
 By the end of this tutorial, participants will possess the skills and knowledge needed to harness the power of AI for transformative EO applications using the Pangeo ML ecosystem and EO4EU platform. All the training material will be collaboratively developed and made available online with CC-BY-4 licence. To facilitate user on-boarding the Pangeo@EOSC platform will be made available to participants. However, all the information needed to set up and run the training material on different platforms will be provided too. This tutorial will provide a comprehensive introduction along with hands-on examples to help you understand how these technologies can be used for Earth science data analysis and interpretation.
