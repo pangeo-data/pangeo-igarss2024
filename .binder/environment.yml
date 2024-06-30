@@ -30,6 +30,7 @@ dependencies:
   - pytorch
   - torchvision
   - pytorch-lightning
+  - xbatcher
   - pip
   - pip:
       - wget
