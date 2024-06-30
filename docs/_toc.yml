@@ -8,3 +8,6 @@ parts:
   - caption: Gap filling
     chapters:
       - file: SST_AI
+  - caption: Landslide detection
+    chapters:
+      - file: landslide_xbatcher
