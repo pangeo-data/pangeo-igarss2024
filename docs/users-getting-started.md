@@ -1,20 +1,29 @@
 
-# Users: How to get access to `pangeo-eosc` services?
+# Registration to Pangeo@EOSC
 
-In this section you will learn how to register and access `pangeo-eosc` services.
+As explained in the previous section, Pangeo@EOSC is the main public deployment of the Pangeo ecosystem open to European researchers and their collaborators.
+The deployment is hosted on European infrastructure and is meant to remain public and freely accessible to all European researchers. Pangeo@Europe mostly uses Pangeo@EOSC for training researchers.
 
-## Registration
+In this section you will learn how to register and access pangeo@eosc services.
 
 You need to create an [EGI Check-in account](https://www.egi.eu/service/check-in/) and enroll to the `vo.pangeo.eu` Virtual Organisation. There are several steps to follow:
 
 1. **Sign up** for an EGI Check-in account following [these steps](https://docs.egi.eu/users/aai/check-in/signup/). **Using [ORCID iD](https://orcid.org/) to authenticate is recommended.**
 2. **Enroll** in the `vo.pangeo.eu` Virtual Organisation (VO) by clicking on [the enrollment URL](https://aai.egi.eu/registry/co_petitions/start/coef:386) using the EGI Check-in account created in the previous step. Review and click on `Submit`. Please add a note in the statement of purpose (make sure you use the text given by your instructors) when requesting to join the VO explaining why you want to access `pangeo-eosc`.
 
-## Access DaskHub
+:::{note}
+After the **Earthly marvels revealed - Pangeo, AI, and Copernicus in action
+subtitle: IGARSS 2024** Course, you can continue to use the resources.
+We would appreciate you get in touch with us to give us some feedback and be informed of the platform evolution. You can do this through [Github Discussions](https://github.com/pangeo-data/pangeo-eosc/discussions).
 
-Access DaskHub via [https://pangeo-eosc.vm.fedcloud.eu/](https://pangeo-eosc.vm.fedcloud.eu/) and choose among the 4 available flavors (as shown on the figure below):
+You can also contribute to "the Pangeo show and tell" online meetups.
+:::
 
-![Cloud EGI JupyterHub flavors](images/flavors.png)
+## Access to Pangeo@EOSC
+
+Access Pangeo@EOSC via [https://pangeo-eosc.vm.fedcloud.eu/](https://pangeo-eosc.vm.fedcloud.eu/) and choose among the 4 available flavors (as shown on the figure below):
+
+![Cloud EGI JupyterHub flavors](../images/flavors.png)
 
 - Pangeo Notebook uses a docker image maintained by the Pangeo community. It contains all the Python packages you need to data analysis and visualization. The list of packages and all the Pangeo Notebook environment is made available [here](https://github.com/pangeo-data/pangeo-docker-images); look up the `pangeo-notebook` folder. 
 - Machine Learning Pangeo notebook with GPU enable tensorflow2: similarly, it is maintained by the Pangeo community and the complete computational environment with the list of Python packages is also available at [https://github.com/pangeo-data/pangeo-docker-images](https://github.com/pangeo-data/pangeo-docker-images) in the `ml-notebook` folder. This flavor contains all the packages from the Pangeo Notebook flavor and is GPU-enabled tensorflow2. Choose this flavor if you need GPUs; for instance for training neural networks;
@@ -32,32 +41,22 @@ Each user has a very small amount of local storage when using the DaskHub as it 
 
 The MinIO console endpoint is: [https://pangeo-eosc-minio.vm.fedcloud.eu/](https://pangeo-eosc-minio.vm.fedcloud.eu/). You can authenticate to the MinIO Object Storage in the same way you login to DaskHub. As shown on the Figure below, make sure you "Select Other Authentication Method" and "Login with SSO (checkin)" to access the MinIO console. Then use your ORCID iD to login.
 
-![minIO Login](images/minIO_login.png)
+![minIO Login](../images/minIO_login.png)
 
 You can create, access and manage your buckets from the minIO console (or use [minIO Python package](https://min.io/docs/minio/linux/developers/python/minio-py.html)). The figure below shows the GUI (with several tabs on the left; the bucket tab is selected on the figure): initially, you won't have any buckets so please feel free to create public/privates buckets.
 
-![minIO buckets](images/minIO_buckets.png)
+![minIO buckets](../images/minIO_buckets.png)
 
 In addition to the MinIO console, the API end point is `https://pangeo-eosc-minioapi.vm.fedcloud.eu/` for those who prefer to interact with MinIO via the API.
+
+## Clone the github repository
+
+To get a local copy of the `pangeo-igarss2024` repository, you can clone it on your local computer and/or server. Open a terminal in the JupyterHub and clone the repository with the following command:
+
+```
+git clone https://github.com/pangeo-data/pangeo-igarss2024.git
+```
 
 ## Support
 
 If you need support, please open an [issue](https://github.com/pangeo-data/pangeo-igarss2024/issues).
-
-# How to acknowledge Pangeo-EOSC
-
-[Pangeo-EOSC](https://github.com/pangeo-data/pangeo-eosc/) has benefited from services and resources provided by the [EGI-ACE project](https://www.egi.eu/project/egi-ace/) (funded by the European Union’s Horizon 2020 research and innovation programme under Grant Agreement no. 101017567), and the [C-SCALE project](https://c-scale.eu/) (funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 101017529), with the dedicated support of [CESNET](https://www.cesnet.cz/en/).
-
-## The European Open Science Cloud (EOSC)
-
-![EOSC logo](./images/EOSC_logo-small.png)
-
-The [European Open Science Cloud (EOSC)](https://open-science-cloud.ec.europa.eu/) aims at becoming the main environment for hosting and processing research data to support European Science.
-
-## Pangeo Europe 
-
-![Pangeo logo](./images/pangeo_name_logo.png)
-
-[Pangeo](https://pangeo.io/) is a worldwide community for Big Data geoscience promoting open, reproducible, and scalable science. 
-
-[Pangeo Europe](https://pangeo.io/meeting-notes.html) aims at highlighting European contributions to the Pangeo Community and at providing a reference deployment for Pangeo on EOSC. The Pangeo deployment on EOSC has been made possible thanks to [CESNET](https://www.cesnet.cz/en/) in the context of the the [EGI-ACE project](https://youtu.be/Vc9SZNa2-Os) and the [C-SCALE project](https://youtu.be/-jBkR_2_vg8).
