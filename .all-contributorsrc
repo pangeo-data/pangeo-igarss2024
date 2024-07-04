@@ -1,4 +1,25 @@
 {
   "projectName": "pangeo-igarss2024",
-  "projectOwner": "pangeo-data"
+  "projectOwner": "pangeo-data",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "tinaok",
+      "name": "Tina Odaka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46813815?v=4",
+      "profile": "https://github.com/tinaok",
+      "contributions": [
+        "design",
+        "code",
+        "review",
+        "test",
+        "tutorial"
+      ]
+    }
+  ]
 }
