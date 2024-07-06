@@ -1,7 +1,21 @@
-# pangeo-igarss2024
-Earthly marvels revealed: Pangeo, AI, and Copernicus in action
+# Tutorial for IGARSS 2024 - Earthly marvels revealed: Pangeo, AI, and Copernicus in action
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+The content of this repository (folder `tutorial`) is rendered as an online document using [Jupyter Book](https://jupyterbook.org/en/stable/intro.html). **You can access it [here](https://pangeo-data.github.io/pangeo-igarss2024)**.
+
+## IGARSS
+IGARSS stands for **International Geoscience and Remote Sensing Symposium**. It is an annual recurring global event hosted by the [IEEE Geoscience and Remote Sensing Society (GRSS)](https://www.grss-ieee.org), a community of researchers and practitioners collaborating and designing tools to understand our interaction with Earth’s ecosystems, to monitor its environments, oceans and ice caps, and to characterize potential risks. 
+
+## HD-8 Tutorial: Earthly marvels revealed: Pangeo, AI, and Copernicus in action 
+This tutorial is created in collaboration with the European Pangeo and [Horizon Europe EO4EU projec](https://www.eo4eu.eu) communities for a tutorial session of [2024 IEEE International Geoscience and Remote Sensing Symposium](https://www.2024.ieeeigarss.org/tutorials.php#tut8).
+
+This tutorial will provide a comprehensive introduction along with hands-on examples to help you understand how these technologies can be used for Earth science data analysis and interpretation.
 
 ## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
