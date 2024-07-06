@@ -11,3 +11,11 @@ parts:
   - caption: Landslide detection
     chapters:
       - file: landslide_xbatcher
+  - caption: Beyond the tutorial
+    chapters:
+    - file: afterword/resources
+      title: Resources
+    - file: afterword/pythia
+      title: Project Pythia
+    - file: afterword/edsbook
+      title: Environmental Data Science Book
