@@ -71,6 +71,15 @@
         "platform",
         "infra"
       ]
+    },
+    {
+      "login": "pl-marasco",
+      "name": "pl.marasco",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22492773?v=4",
+      "profile": "https://github.com/pl-marasco",
+      "contributions": [
+        "ideas"
+      ]
     }
   ]
 }
