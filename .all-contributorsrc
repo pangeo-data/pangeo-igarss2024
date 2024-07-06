@@ -8,6 +8,7 @@
   "commitConvention": "angular",
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": true,
+  "skipCI": true,
   "contributors": [
     {
       "login": "tinaok",
