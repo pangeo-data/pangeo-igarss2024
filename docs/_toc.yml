@@ -5,6 +5,9 @@ parts:
     chapters:
       - file: agenda
       - file: users-getting-started
+  - caption: Pangeo and EOSC in a nutshell
+    chapters:
+      - file: pangeo
   - caption: Gap filling
     chapters:
       - file: SST_AI
