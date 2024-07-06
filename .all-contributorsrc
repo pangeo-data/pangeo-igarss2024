@@ -46,6 +46,19 @@
         "example",
         "tutorial"
       ]
+    },
+    {
+      "login": "acocac",
+      "name": "Alejandro ©",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13321552?v=4",
+      "profile": "https://github.com/acocac",
+      "contributions": [
+        "design",
+        "code",
+        "research",
+        "example",
+        "tutorial"
+      ]
     }
   ]
 }
